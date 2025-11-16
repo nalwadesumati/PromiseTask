@@ -1,0 +1,7 @@
+#blogContainer .card {
+  height: 100%;
+}
+#card-header h5 {
+  color: blueviolet;
+  font-size: 30px;
+}
